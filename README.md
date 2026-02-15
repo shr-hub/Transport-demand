@@ -4,7 +4,7 @@ Overview
 
 This project uses Artificial Intelligence and data analytics to analyze and predict passenger demand in urban transport systems. The goal is to improve route planning, fleet utilization, and operational efficiency through data-driven decision-making.
 
-Objectives
+# Objectives
 
 Analyze passenger demand patterns
 
@@ -16,7 +16,7 @@ Forecast future demand using machine learning
 
 Generate data for dashboard and managerial insights
 
-Dataset
+# Dataset
 
 Synthetic dataset with 300 hourly transport observations including:
 
@@ -36,7 +36,7 @@ Fuel_Cost_Per_Trip
 
 Traffic_Level
 
-Methods
+# Methods
 
 Data preprocessing and feature engineering
 
@@ -48,7 +48,7 @@ Model evaluation (MAE, R²)
 
 Feature importance analysis
 
-Models used:
+# Models used:
 
 Linear Regression
 
@@ -67,7 +67,7 @@ Tools
 
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Applications
+# Applications
 
 Route optimization
 
